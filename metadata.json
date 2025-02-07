@@ -1,1 +1,5 @@
-
+{
+  name : flokibox,
+  symbol : FLOKIBOX,
+  image : https://raw.githubusercontent.com/FlokiBox/SOLANA/refs/heads/main/logo600.png
+}
